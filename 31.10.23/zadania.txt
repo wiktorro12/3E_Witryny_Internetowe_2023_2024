@@ -1,1 +1,14 @@
-
+Zad1
+Wersja HTML 
+HTML 4.01
+ element/zamienik
+1<applet>/<object>
+2<basefont>/CSS:
+3<u>/CSS:
+4<s>/CSS:
+5<isindex>/<input>
+6<dir>/<ul>
+7<frame>/<object>
+8<strike>/CSS:
+9<menu>/<ul>
+10<font>/CSS:
