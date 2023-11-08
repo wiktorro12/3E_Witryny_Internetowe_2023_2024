@@ -1,3 +1,5 @@
+Karta pracy JEDEN
+
 Zad1
 Wersja HTML 
 HTML 4.01
@@ -12,3 +14,37 @@ HTML 4.01
 8<strike>/CSS:
 9<menu>/<ul>
 10<font>/CSS:
+
+HTML5.0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Zad2
+1 kodowanie znaków
+2 elementy
+3 brak w html 5.0 atrybutów odpowiedzialnych za wygląd strony 
+
+Zad3
+1 https://www.w3.org/TR/1998/REC-html40-19980424/
+2 https://www.w3.org/TR/html401/
+3 https://www.w3.org/TR/2011/WD-html5-20110405/
+
+Zad1
+                             opis i tematyka                        /                adres url
+Witryna internetowa/         internetowy portal ogłoszeniowy,         https://www.autoscout24.pl/
+                             ogłoszenia z samochodami,    
+                             użytkownik może wstawić ofertę pojazdu
+Portal internetowy/
+
+
+Sklep internetowy/
+Blog tekstowy/
+Wideoblog/
