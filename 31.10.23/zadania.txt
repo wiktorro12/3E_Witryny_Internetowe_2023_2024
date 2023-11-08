@@ -16,16 +16,16 @@ HTML 4.01
 10<font>/CSS:
 
 HTML5.0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
+1<!DOCTYPE> 
+2<iframe>
+3<br>
+4<abbr>
+5<body>
+6<link>
+7<div>
+8<hr>
+9<base>
+10<style>
 
 Zad2
 1 kodowanie znaków
@@ -69,3 +69,15 @@ Zad3
 4P
 5F. JEŻELI TAM NIE MA SPACJI POMIĘDZY ZNAKIEM RÓWNOŚCI TO JEST P
 Zad4
+zostało załączone 
+podsumowanie 
+TEST 1
+ZAD1-A
+ZAD2-D
+ZAD3-C
+ZAD4-B
+ZAD5-A
+ZAD Egzaminacyjne
+HTML-podstawowy język do pisania strony internetowej- w tym języku napiszę stronę
+CSS-stylizacja i format html - nadamy czciionke kolor marginesy stronie nadamy profesjonalizmu
+JavaScript -język programowania tworzymy formularze animacje itp - utworze formularz oraz animowacje 
