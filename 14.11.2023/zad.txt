@@ -2,3 +2,22 @@ zadanie 1
 Strict DTD-ścisła + niezdeprecjonowane
 Transitional DTD-przejściowa + atrib zdeprecjonowane i element IFRAME i atrybut target="..."
 Frameset DTD-dla ramek
+zad2
+<html lang="pl">
+
+
+</head>
+
+</body>
+</html>
+zad3
+1.XHTML 1.01
+2.przykład do zadania
+3.utf-8
+Test2
+zad1-
+zad2-
+zad3-
+zad4-
+zad5-
+
