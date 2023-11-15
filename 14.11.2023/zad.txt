@@ -15,9 +15,9 @@ zad3
 2.przykład do zadania
 3.utf-8
 Test2
-zad1-
-zad2-
-zad3-
-zad4-
-zad5-
+zad1-C
+zad2-C
+zad3-D
+zad4-A
+zad5-D
 
