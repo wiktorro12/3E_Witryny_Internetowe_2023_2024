@@ -1,1 +1,15 @@
+zad5
+type="submit"-pole tworzące przycisk do wysyłania danych<input>
+scrolling="no/yes/auto"-ustawianie suwaków do przewijania-<frame>
+maxlength="x"-służy do określania maksymalnej liczby znaków-<input>
+cellspacing="x"-rozmiar odstępu między komurkami-<table>
+id="header"-unikalnym identyfikatorem elementu-<header>
+type="text"-pole tekstowe-<input>
+zad6
+1-type="password"-pole na hasło
+2-type="radio"-pole wyboru jednej opcji 
+3-type"checkbox"-pole wyboru wielu opcji 
+4-type"reset"-przycisk czyszczący pola formularza
+5-type="file"-pole wyboru pliku do przesłania
+
 
