@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(249, 8, 209);
+
+}
+
+/**{
+    color: green;
+} */
+
+section > p {
+    background-color: teal;
+}
+
+div +p{
+    background-color: red;
+}
