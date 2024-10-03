@@ -1,0 +1,10 @@
+.container{
+    float:left;
+    width: 30%;
+}
+.text{
+    float:inside;
+}
+.container2 img{
+    clear: both; float: right;
+}
